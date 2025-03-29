@@ -1,1 +1,1 @@
-# all-day-slimming-tea.github.io
+# https://get-all-day-slimming-tea.netlify.app
