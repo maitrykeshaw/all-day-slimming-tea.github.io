@@ -1,1 +1,1 @@
-# https://get-all-day-slimming-tea.netlify.app
+# https://all-day-slimming-tea.vercel.app
