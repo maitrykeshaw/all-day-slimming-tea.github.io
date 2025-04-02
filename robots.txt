@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://all-day-slimming-tea.vercel.app
+Sitemap: https://all-day-slimming-tea.vercel.app/sitemap.xml
