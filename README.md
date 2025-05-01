@@ -1,1 +1,1 @@
-# https://all-day-slimming-tea.vercel.app
+# https://all-day-slimming-tea.vercel.app/
