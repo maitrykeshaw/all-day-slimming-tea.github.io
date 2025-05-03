@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"All Day Slimming Tea™ | Official Website",
+  "short_name":"All Day Slimming Tea™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"All Day Slimming Tea is a powerful dietary tea blend formulated to support healthy weight loss and detox, digestion, and better sleep.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
